@@ -1,7 +1,3 @@
 # GroupGIT
 test
-
-//JJ
-//HELLO
-#ALBASILS
-S
+#Faisal Alqahtani's test.
